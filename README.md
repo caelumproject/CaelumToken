@@ -1,7 +1,7 @@
 # CaelumToken
 Home of the CaelumProject
 
-** Docs and readme under construction! **
+**Docs and readme under construction!**
 
 # Caelum project Token (CLM)
 
