@@ -63,4 +63,6 @@ Stop as masternode
 ---
 If for whatever reason you want to stop being a masternode on CLM, you can do so by repeating the steps in section **Become a masternode**, only replacing the `depositCollateral` in the dropdown box with the `withdrawCollateral` function.
 
+**You must execute this one masternode at a time!** This means, for every masternode you want to stop, you need to make this function call.
+
 This will send your tokens back and remove you from the masternode reward list. Please note that you can only enter as masternode again on the next round.
